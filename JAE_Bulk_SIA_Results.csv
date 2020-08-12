@@ -1,0 +1,208 @@
+samplingID,operation,species,Family,Func_Group_2,Func_Group_3,length_mm,weight_g,Rel_TP,dN15,N_percent,dC13,C_percent,CN_ratio
+OP16CENA,16,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,62,9.5,2.315393994,8.072339579,12.55,-18.8732,43.77,3.49
+OP16CENA,16,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,54,6.5,2.216598798,7.736435912,17.34,-19.0046,62.9,3.63
+OP16CENA,16,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,44,5,2.402041274,8.366940333,12.13,-19.114,46.32,3.55
+OP16CENA,16,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,14,0.5,2.227063401,7.772015565,12.25,-17.6198,44.27,3.61
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,12,0.63,2.876058103,9.978597551,15.12,-19.3375,56.98,3.77
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,11,0.58,2.9768038,10.32113292,11.91,-19.2651,43.78,3.68
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,7,0.17,3.156491847,10.93207228,11.5,-19.8827,44.91,3.9
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,14,0.95,2.960596765,10.266029,12.27,-19.1991,45.21,3.69
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,9,0.56,3.219098518,11.14493496,11.566,-19.2079,43,3.72
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,7,0.2,3.366345962,11.64557627,11.611,-19.5011,45.57,3.92
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,6,0.13,3.313926476,11.46735002,11.861,-19.7514,47.32,3.99
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,8,0.29,3.254266279,11.26450535,11.003,-19.526,41.91,3.81
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,6.5,0.13,2.072135172,7.245259585,11.46,-19.6887,42.94,3.75
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,9,0.33,3.545014618,12.2530497,11.606,-19.3707,45.36,3.91
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,5.5,0.12,2.964773221,10.28022895,10.83,-18.1896,42.26,3.9
+OP16CENA,16,Ocythoe tuberculata,Ocythoidae,Active,Active,9,0.26,3.286834032,11.37523571,12.24,-19.7296,48.2,3.94
+OP17CENA,17,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,39,1.5,3.232117812,11.18920056,12.31,-19.7934,44.18,3.59
+OP17CENA,17,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,45,3,2.987662544,10.35805265,11.99,-19.7732,42.82,3.57
+OP17CENA,17,Megalocranchia sp.,Cranchiidae,Inactive,Inactive,148,23,3.300140132,11.42047645,12.567,-19.3314,47.83,3.77
+OP17CENA,17,Onychoteuthis meridiopacifica,Onychoteuthidae,Active,Active,30,1,3.010609068,10.43607083,11.892,-19.2157,40.96,3.44
+OP17CENA,17,Leachia pacificus,Cranchiidae,Inactive,Inactive,95,7,2.75447312,9.565208607,11.58,-19.4516,45.24,3.91
+OP17CENA,17,Leachia pacificus,Cranchiidae,Inactive,Inactive,68,3,3.046865971,10.5593443,11.401,-19.1409,43.37,3.8
+OP17CENA,17,Leachia pacificus,Cranchiidae,Inactive,Inactive,55,0.71,2.373404814,8.269576369,12.5,-18.6758,45.11,3.61
+OP17CENA,17,Ocythoe tuberculata,Ocythoidae,Active,Active,10,0.49,2.775938949,9.638192428,11.49,-19.5324,44.03,3.72
+OP17CENA,17,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,17,0.33,3.209744118,11.11313,12.05,-20.2105,44.08,3.66
+OP17CENA,17,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,17,0.44,3.323117585,11.49859979,12.78,-18.8322,46.06,3.6
+OP17CENA,17,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,20,0.37,3.291091176,11.38971,12.99,-19.5926,45.67,3.52
+OP17CENA,17,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,22,0.87,3.198561765,11.07511,12.99,-19.5646,46.04,3.55
+OP17CENA,17,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,27,1.41,3.147932353,10.90297,12.79,-19.6182,45.05,3.52
+OP17CENA,17,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,22,0.86,2.916481903,10.11603847,12.6,-19.7758,44.75,3.55
+OP17CENA,17,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,20,0.88,1.475148261,5.215504086,12.46,-19.8868,45.24,3.63
+OP18CENA,18,Liocranchia reinhardti,Cranchiidae,Inactive,Inactive,157,142,2.746116189,9.536795044,12.839,-19.6147,43.72,3.41
+OP18CENA,18,Cranchia scabra,Cranchiidae,Inactive,Inactive,78,41.5,2.399812418,8.359362222,12.67,-19.7909,46.59,3.68
+OP18CENA,18,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,46,3,2.566660714,8.926646428,11.72,-19.9,42.08,3.59
+OP18CENA,18,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,48,3,3.127370556,10.83305989,11.45,-18.4534,41.23,3.6
+OP18CENA,18,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,46,4,3.241864474,11.22233921,11.59,-19.9378,41.58,3.59
+OP18CENA,18,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,21,1.25,2.606677941,9.062705,10.28,-20.3192,36.32,3.53
+OP18CENA,18,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,45,7.25,3.636447059,12.56392,12.3,-18.6572,44.85,3.65
+OP18CENA,18,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,27,2.5,3.066482953,10.62604204,12.95,-19.8216,45.33,3.5
+OP18CENA,18,Ocythoe tuberculata,Ocythoidae,Active,Active,10,0.55,3.055507979,10.58872713,11.6,-20.4355,46.72,4.03
+OP18CENA,18,Cranchia scabra,Cranchiidae,Inactive,Inactive,38,6.7,2.707260394,9.404685339,11.94,-19.4605,47.1,3.95
+OP18CENA,18,Histioteuthis bonnellii,Histioteuthidae,Active,Active,8,0.45,3.037202788,10.52648948,10.351,-20.7785,42.7,4.13
+OP18CENA,18,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,42,2.5,3.184064012,11.02581764,12.62,-19.6717,45.02,3.57
+OP18CENA,18,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,43,2.1,3.279952097,11.35183713,13.64,-19.4513,48.7,3.57
+OP18CENA,18,Enoploteuthis galaxias,Enoploteuthidae,Active,Highly Active,37,2.95,3.313128856,11.46463811,12.19,-20.0822,43.55,3.57
+OP18CENA,18,Enoploteuthis galaxias,Enoploteuthidae,Active,Highly Active,34,2.83,3.691593174,12.75141679,12.458,-19.7054,44.12,3.54
+OP18CENA,18,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,31,2.55,2.960805935,10.26674018,12.65,-19.9131,45.62,3.61
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,65,1.05,2.79790417,9.712874177,11.462,-18.6394,40.27,3.51
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,37,0.28,2.830819393,9.824785935,13.773,-17.8816,44.77,3.52
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,104,5.5,2.727647353,9.474001,11.18,-19.4212,41.86,3.77
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,67,1.17,2.478430916,8.626665113,12.18,-19.062,44.86,3.68
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,74,1.75,2.779706631,9.651002545,12.125,-18.8437,43.37,3.58
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,49,0.65,2.790558828,9.687900016,12.517,-18.761,43.89,3.51
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,54,0.6,2.662895487,9.253844656,12.591,-19.1192,44.88,3.56
+OP18CENA,18,Leachia pacificus,Cranchiidae,Inactive,Inactive,68,1.22,2.341177728,8.160004274,12.11,-19.2673,43.59,3.6
+OP19CENA,19,Megalocranchia sp.,Cranchiidae,Inactive,Inactive,100,8.5,3.139856897,10.87551345,11.693,-19.6769,44.42,3.8
+OP19CENA,19,Megalocranchia sp.,Cranchiidae,Inactive,Inactive,169,29.5,3.427933597,11.85497423,9.122,-19.9537,35.01,3.84
+OP19CENA,19,Ancistrocheirus lesueuri,Ancistrocheiridae,Active,Highly Active,37,10,3.691645468,12.75159459,11.068,-20.7433,42.21,3.81
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,44,5.02,3.592558824,12.4147,11.8,-18.9363,42.91,3.64
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,44,4.7,4.044237494,13.95040748,11.83,-19.8195,43.32,3.66
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,27,1.35,2.185813922,7.631767335,11.95,-19.9648,42.03,3.52
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,26,1.73,2.000197126,7.00067023,13.83,-19.6242,49.17,3.55
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,27,2.15,3.304629876,11.43574158,13.49,-19.8336,48.12,3.57
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,23,1.13,2.57389003,8.951226101,12.02,-20.715,43.64,3.63
+OP19CENA,19,Enoploteuthis galaxias,Enoploteuthidae,Active,Highly Active,48,6.2,3.88093685,13.39518529,12.718,-19.3839,44.3,3.48
+OP19CENA,19,Enoploteuthis galaxias,Enoploteuthidae,Active,Highly Active,28,2.14,3.640080456,12.57627355,12.446,-19.7698,44.68,3.59
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,25,1.83,3.329348376,11.51978448,13.28,-19.6503,47.79,3.6
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,32,2.6,3.373431703,11.66966779,13.29,-19.6886,46.58,3.51
+OP19CENA,19,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,43,4.9,3.825299779,13.20601925,11.8,-18.9433,42.4,3.59
+OP19CENA,19,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,29,1.43,3.194043062,11.05974641,12.3,-19.5487,44.59,3.63
+OP19CENA,19,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,13,0.3,3.171809903,10.98415367,12.829,-20.0171,47.58,3.71
+OP19CENA,19,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,24,1.1,3.382209491,11.69951227,12.568,-19.7356,44.13,3.51
+OP19CENA,19,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,25,1.3,3.445005165,11.91301756,10.588,-19.68,37.3,3.52
+OP19CENA,19,Leachia pacificus,Cranchiidae,Inactive,Inactive,97,4.3,2.812080554,9.761073884,10.44,-19.4162,39.12,3.75
+OP19CENA,19,Leachia pacificus,Cranchiidae,Inactive,Inactive,80,2.3,2.120539399,7.409833957,12.86,-18.6258,45.44,3.53
+OP19CENA,19,Leachia pacificus,Cranchiidae,Inactive,Inactive,59,0.7,1.984180591,6.946214009,13.146,-18.0443,44.05,3.35
+OP19CENA,19,Leachia pacificus,Cranchiidae,Inactive,Inactive,79,2,2.539878766,8.835587804,11.94,-18.3817,42.11,3.53
+OP19CENA,19,Ocythoe tuberculata,Ocythoidae,Active,Active,11,0.73,2.737967652,9.509090016,10.89,-20.3264,44.79,3.89
+OP19CENA,19,Ocythoe tuberculata,Ocythoidae,Active,Active,8,0.24,2.683181402,9.322816766,10.815,-20.5108,42.41,4.16
+OP19CENA,19,Abralia sp.,Enoploteuthidae,Active,Highly Active,24,1.58,3.572511221,12.34653815,12.682,-19.737,44.61,3.52
+OP19CENA,19,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,48,3.1,3.314516474,11.46935601,13,-19.3247,46.66,3.59
+OP20CENA,20,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,35,3.5,3.423411803,11.83960013,11.24,-18.9327,40.19,3.57
+OP20CENA,20,Abraliopsis sp.,Enoploteuthidae,Active,Highly Active,35,3.5,3.606234097,12.46119593,11.82,-19.3395,42.74,3.62
+OP20CENA,20,Abralia sp.,Enoploteuthidae,Active,Highly Active,27,1.51,3.152510821,10.91853679,11.235,-19.5466,39.28,3.5
+OP20CENA,20,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,44,2.5,3.122346479,10.81597803,12.27,-19.7585,44.8,3.65
+OP20CENA,20,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,27,1.04,3.261120588,11.28781,12.53,-19.7231,44.76,3.57
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,44,4.5,2.926040176,10.1485366,12.78,-19.9336,42.97,3.36
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,57,10,2.849169091,9.887174911,13.62,-18.3068,42.38,3.11
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,60,9.5,2.661148876,9.247906178,12.67,-19.2058,39.09,3.09
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,33,1.3,2.48921974,8.663347117,13.5,-17.1036,47.53,3.51
+OP20CENA,20,Cranchia scabra,Cranchiidae,Inactive,Inactive,19,1,2.618944586,9.104411594,12.73,-18.688,47,3.69
+OP20CENA,20,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,17,0.44,2.463840923,8.577059137,10.94,-19.6292,45.49,4.16
+OP20CENA,20,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,15,0.28,2.734423371,9.497039463,11.92,-20.5115,48.42,4.06
+OP20CENA,20,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,16,0.36,2.599132147,9.0370493,NA,-20.07035,NA,NA
+OP20CENA,20,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,48,4.1,3.605922215,12.46013553,10.9,-19.8583,41.69,3.82
+OP20CENA,20,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,24,1.2,3.611123944,12.47782141,12.741,-19.4531,45.14,3.54
+OP20CENA,20,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,15,0.6,3.141382324,10.8806999,12.642,-20.0108,45.33,3.57
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,57,5.55,2.02586926,7.087955485,12.5,-19.2387,47.33,3.79
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,22,0.52,1.556396945,5.491749614,12.3,-18.2494,46.84,3.81
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,29,1,2.274382278,7.932899746,12.74,-19.6702,48.03,3.77
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,20,0.41,2.576098136,8.958733663,12.42,-18.2205,46.18,3.72
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,38,1.74,2.509734581,8.733097577,11.03,-18.0368,45.22,4.1
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,43,2.56,2.73874594,9.511736196,12.31,-18.7909,42.13,3.42
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,19,0.19,2.872104983,9.965156943,11.98,-17.5803,46.36,3.83
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,36,3.3,2.609310517,9.071655759,11.77,-19.6085,45.72,3.89
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,46,4.75,3.116595712,10.79642542,11.03,-19.7779,42.35,3.84
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,13,0.2,3.378520894,11.68697104,13.45,-18.6201,47.85,3.56
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,39,2.3,2.541355848,8.840609884,11.83,-19.4701,46.23,3.91
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,28,1.4,2.154117725,7.524000266,12.11,-18.5341,44.38,3.67
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,17,0.34,2.676599314,9.300437669,12.19,-18.6467,45.88,3.77
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,19,0.24,2.075039061,7.255132807,11.23,-18.3777,41.98,3.74
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,18,0.3,2.595592629,9.025014937,13.05,-18.2662,48.98,3.75
+OP20CENA,20,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,9,0.11,2.503385068,8.71150923,13.26,-19.9927,49.06,3.7
+OP21CENA,21,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,44,2.1,2.908284324,10.0881667,11.43,-19.6619,41.96,3.67
+OP21CENA,21,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,20,0.5,3.171838235,10.98425,12.02,-19.7429,44.52,3.71
+OP21CENA,21,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,17,0.5,3.260068394,11.28423254,13.14,-19.3508,46.34,3.53
+OP21CENA,21,Ocythoe tuberculata,Ocythoidae,Active,Active,12,0.52,2.985009068,10.34903083,11.64,-19.626,47.58,3.85
+OP21CENA,21,Ocythoe tuberculata,Ocythoidae,Active,Active,10,0.47,3.325186188,11.50563304,11.98,-19.6282,38.35,3.87
+OP21CENA,21,Ocythoe tuberculata,Ocythoidae,Active,Active,4,0.05,3.806368397,13.14165255,11.53,-20.0515,41.05,3.65
+OP21CENA,21,Ocythoe tuberculata,Ocythoidae,Active,Active,8,0.26,3.113222071,10.78495504,12.09,-19.6205,46.2,3.83
+OP21CENA,21,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,30,2.25,3.284779412,11.36825,11.77,-19.4741,41.55,3.53
+OP21CENA,21,Abralia sp.,Enoploteuthidae,Active,Highly Active,35,2.85,3.841569988,13.26133796,10.69,-19.7846,37.94,3.55
+OP21CENA,21,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,25,1.5,3.161791774,10.95009203,11.59,-19.8195,40.54,3.5
+OP21CENA,21,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,20,1.1,3.071658824,10.64364,11.54,-20.0838,41.7,3.61
+OP21CENA,21,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,36,2.4,3.271520588,11.32317,11.67,-19.7385,41.93,3.59
+OP21CENA,21,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,49,5.3,2.683969118,9.325495,13.52,-18.4859,42.69,3.16
+OP21CENA,21,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,16,0.25,2.544042059,8.849743,12.99,-18.3267,48.24,3.71
+OP21CENA,21,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,11,0.12,2.707624412,9.405923,12.02,-18.4243,40.55,3.37
+OP21CENA,21,Leachia pacificus,Cranchiidae,Inactive,Inactive,57,0.65,2.556600829,8.892442819,12.73,-18.5794,45.47,3.57
+OP21CENA,21,Leachia pacificus,Cranchiidae,Inactive,Inactive,54,0.5,2.687142353,9.336284,11.7,-18.7587,42.21,3.61
+OP21CENA,21,Leachia pacificus,Cranchiidae,Inactive,Inactive,27,0.38,2.845643235,9.875187,10.88,-20.114,44.73,4.12
+OP21CENA,21,Leachia pacificus,Cranchiidae,Inactive,Inactive,37,0.22,2.885405882,10.01038,13.32,-17.6005,45.09,3.39
+OP22CENA,22,Ocythoe tuberculata,Ocythoidae,Active,Active,17,2.2,3.492026653,12.07289062,10.758,-20.1192,42.36,3.94
+OP22CENA,22,Ocythoe tuberculata,Ocythoidae,Active,Active,14,1.2,3.189760571,11.04518594,11.549,-19.3471,43.63,3.78
+OP22CENA,22,Todarodes pusillus,Ommastrephidae,Active,Highly Active,35,1.5,2.806872266,9.743365703,12.503,-19.5687,42.54,3.4
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,17,0.4,4.000886874,13.80301537,13.42,-19.8899,47.51,3.54
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,23,0.9,2.898383632,10.05450435,12.54,-19.7123,45.11,3.6
+OP22CENA,22,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,35,3.3,3.405105571,11.77735894,13.12,-19.011,45.36,3.46
+OP22CENA,22,Cranchia scabra,Cranchiidae,Inactive,Inactive,71,20.5,3.003690612,10.41254808,13.3,-19.6642,48.8,3.67
+OP22CENA,22,Leachia pacificus,Cranchiidae,Inactive,Inactive,90,6.5,2.966288235,10.28538,10.82,-19.2879,41.09,3.8
+OP22CENA,22,Leachia pacificus,Cranchiidae,Inactive,Inactive,41,0.4,2.979743259,10.33112708,11.88,-18.6958,42.87,3.61
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,23,1.06,2.148325854,7.504307904,12.6,-19.3408,43.69,3.47
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,23,0.95,3.151319803,10.91448733,12.6,-19.9966,44.87,3.56
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,20,0.26,2.89315,10.03671,13.04,-19.8565,47.2,3.62
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,21,0.66,3.153985444,10.92355051,12.86,-19.8159,45.91,3.57
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,27,1.62,3.533997059,12.21559,12.79,-19.5051,44.88,3.51
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,27,1.35,2.9502,10.23068,12.8,-19.6814,45.42,3.55
+OP22CENA,22,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,14,0.32,2.940068071,10.19623144,12.98,-19.7452,46.39,3.57
+OP22CENA,22,Abralia sp.,Enoploteuthidae,Active,Highly Active,15,0.74,3.048809056,10.56595079,11.088,-20.243,40.73,3.67
+OP23CENA,23,Cranchia scabra,Cranchiidae,Inactive,Inactive,160,211.5,3.648123206,12.6036189,13.07,-19.2812,40.14,3.07
+OP23CENA,23,Cranchia scabra,Cranchiidae,Inactive,Inactive,100,56,3.395336938,11.74414559,11.93,-19.9661,38.09,3.19
+OP23CENA,23,Leachia pacificus,Cranchiidae,Inactive,Inactive,62,1.62,3.068144118,10.63169,14.92,-17.7161,47.34,3.17
+OP23CENA,23,Leachia pacificus,Cranchiidae,Inactive,Inactive,80,2,2.339683871,8.15492516,10.72,-19.1911,38.94,3.63
+OP23CENA,23,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,29,2,3.443964706,11.90948,12.14,-19.8532,43.9,3.62
+OP23CENA,23,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,36,4.3,3.746041176,12.93654,10.56,-19.5242,44.8,4.24
+OP23CENA,23,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,13,0.18,2.919858824,10.12752,13.33,-18.9635,45.37,3.4
+OP23CENA,23,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,27,1.17,3.153228982,10.92097854,12.9,-19.7069,45.8,3.55
+OP23CENA,23,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,21,0.7,3.449281524,11.92755718,13.31,-19.4567,46.18,3.47
+OP24CENA,24,Octopoteuthis sicula,Octopoteuthidae,Active,Highly Active,62,21,4.021939421,13.87459403,12.084,-20.1192,39.49,3.27
+OP24CENA,24,Onychoteuthis aequimanus,Onychoteuthidae,Active,Active,100,31,2.762269073,9.591714848,12.739,-19.3484,40.29,3.16
+OP24CENA,24,Onychoteuthis aequimanus,Onychoteuthidae,Active,Active,79,16.5,3.304731771,11.43608802,13.577,-19.4177,44,3.24
+OP24CENA,24,Leachia pacificus,Cranchiidae,Inactive,Inactive,32,0.15,2.656481471,9.232037,14.49,-18.2123,48.92,3.38
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,42,1.85,2.925606574,10.14706235,11.87,-19.8104,43.06,3.63
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,44,2.4,2.902032876,10.06691178,11.46,-19.82091693,40.72,3.55
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,46,2.65,2.997481315,10.39143647,10.94,-19.7446,40.05,3.66
+OP24CENA,24,Leachia pacificus,Cranchiidae,Inactive,Inactive,77,1.3,2.725979957,9.468331854,11.894,-18.9214,43.57,3.66
+OP24CENA,24,Leachia pacificus,Cranchiidae,Inactive,Inactive,37,0.22,2.675373529,9.29627,13.72,-17.4111,45.08,3.29
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,48,3.1,3.102568818,10.74873398,12.28,-19.5502,43.82,3.56
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,43,2.4,3.255801126,11.26972383,12.55,-19.8472,44.91,3.58
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,48,2.55,3.0874524,10.69733816,12.13,-19.9383,43.45,3.58
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,52,3.7,3.339842174,11.55546339,12.5,-19.7439,44.49,3.56
+OP24CENA,24,Brachioteuthis picta,Brachioteuthidae,Active,Highly Active,47,3.47,3.304433556,11.43507409,12.68,-19.7166,44.86,3.54
+OP24CENA,24,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,16,0.51,3.009431712,10.43206782,13.012,-19.7956,47.91,3.68
+OP24CENA,24,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,31,1.62,3.385312047,11.71006096,12.228,-19.6844,43.3,3.54
+OP24CENA,24,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,20,0.55,3.252432044,11.25826895,13.07,-20.0509,46.58,3.27
+OP24CENA,24,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,15,0.25,3.247072985,11.24004815,16.2,-19.8286,58.42,3.61
+OP24CENA,24,Pterygioteuthis giardi,Pyroteuthidae,Active,Active,16,0.37,3.378879135,11.68818906,13.09,-19.8435,47.79,3.65
+OP24CENA,24,Abralia sp.,Enoploteuthidae,Active,Highly Active,37,3.91,3.762310338,12.99185515,11.195,-19.6025,39.42,3.52
+OP24CENA,24,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,36,3.35,3.964110506,13.67797572,11.96,-19.1302,44.26,3.7
+OP24CENA,24,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,21,0.84,3.289668565,11.38487312,12.765,-20.45049671,44.025,3.45
+OP24CENA,24,Abralia sp.,Enoploteuthidae,Active,Highly Active,21,1.5,3.299548838,11.41846605,12.193,-19.768,43.47,3.57
+OP24CENA,24,Abralia sp.,Enoploteuthidae,Active,Highly Active,21,1.3,3.326877129,11.51138224,12.81,-20.09,45.84,3.58
+OP24CENA,24,Abraliopsis gilchristi,Enoploteuthidae,Active,Highly Active,20,0.44,2.922732353,10.13729,12.44,-19.7527,45.23,3.64
+OP25CE1,25,Cranchia scabra,Cranchiidae,Inactive,Inactive,157,174,2.664128739,9.258037711,11.03,-19.058,41.92,3.8
+OP25CE5,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,70,13,2.903835953,10.07304224,13.73,-18.6242,43.01,3.22
+OP25CE5,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,52,8.5,2.595440568,9.024497931,12.5,-19.9061,44.52,3.56
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,74,19.5,2.891164706,10.02996,12.84,-18.9068,41.81,3.21
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,69,14.5,2.783671176,9.664482,13.63,-19.0983,39.72,2.91
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,26,1.5,2.83523577,9.839801619,13.12,-18.1266,43.52,3.32
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,32,2,2.758515588,9.578953,12.71,-18.4607,43.58,3.43
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,52,2.5,2.262582353,7.89278,11.94,-18.5419,42.39,3.55
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,26,0.95,2.302295882,8.027806,11.14,-18.799,40.96,3.68
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,25,0.86,2.707492647,9.405475,13.65,-18.7662,49.92,3.66
+OP25CE6,25,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,45,3.9,2.734664412,9.497859,12.26,-18.4441,42.42,3.46
+OP25CE6,25,Leachia pacificus,Cranchiidae,Inactive,Inactive,42,0.5,2.651786765,9.216075,11.92,-18.8934,43.79,3.67
+OP25CE6,25,Leachia pacificus,Cranchiidae,Inactive,Inactive,93,3.5,2.472748529,8.607345,10.33,-19.2412,38.59,3.73
+OP25CE6,25,Ocythoe tuberculata,Ocythoidae,Active,Active,6,0.1,2.859556818,9.92249318,10.73,-19.6227,41.82,3.9
+OP25CE6,25,Ocythoe tuberculata,Ocythoidae,Active,Active,6,0.1,2.301380378,8.024693284,11.7,-19.6735,44.62,3.81
+OP26CE3,26,Spirula spirula,Spirulidae,Active,,40,8.5,3.60410075,12.45394255,13.242,-17.0506,40.97,3.09
+OP26CE4,26,Leachia pacificus,Cranchiidae,Inactive,Inactive,87,8,3.013462876,10.44577378,11.15,-19.9526,37.24,3.34
+OP26CE4,26,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,15,0.5,3.028197032,10.49586991,12.742,-20.0228,46.04,3.61
+OP26CE4,26,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,17,1,3.082357144,10.68001429,12.111,-19.8312,43.66,3.61
+OP26CE4,26,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,17,1,2.798974128,9.716512034,11.675,-20.0594,41.92,3.59
+OP26CE4,26,Pyroteuthis margaritifera,Pyroteuthidae,Active,Active,20,1.5,2.986047656,10.35256203,11.801,-19.9971,41.75,3.54
+OP26CE5,26,Liguriella podophthalma,Cranchiidae,Inactive,Inactive,25,0.5,2.633353986,9.153403551,12.36,-18.1665,45.56,3.69
+OP27CE3,27,Taningia danae,Octopoteuthidae,Active,Highly Active,220,720.5,4.376074268,15.07865251,12.671,-19.1558,38.54,3.04
+OP27CE4,27,Discoteuthis sp.,Cycloteuthidae,Active,Highly Active,71,28.5,3.638032153,12.56930932,12.99,-19.7648,41.48,3.19
